@@ -1,0 +1,39 @@
+
+
+body {
+    background-color: #F0F8FF;
+    align-items: center;
+    padding-top: 100px; 
+    padding-left: 160px;
+    padding-bottom: 40px;
+
+    font-size: 30px;
+}
+
+input[type="radio"]{
+    max-width: 100px;
+    width: auto;
+    vertical-align: middle;
+    padding: initial;
+    margin: initial;
+    width: 20%;
+}
+
+input { 
+    width: 80%; 
+    max-width: 330px; 
+    padding: 7px; 
+    margin: auto; 
+    border-radius: 28px;
+    text-shadow: 3px 2px 1px #9daef5; 
+    box-shadow: 6px 5px 24px #black;
+    font-family: Arial; 
+    color: #black; 
+    font-size: 27px;
+}
+
+input[type="submit"]:hover
+{ 
+    background-color: brown; 
+}
+
